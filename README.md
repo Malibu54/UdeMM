@@ -1,5 +1,8 @@
 # UdeMM - Licenciatura en Administración de Sistemas (FAE)
 
+Trabajo práctico número 2 del primer cuatrimestre del año 2024.
+Los siguientes proyectos fueron desarrollados en Visual Studio Code
+
 # Ejercicio 1 - Validador de Disposiciones de Puestos de Trabajo
 
 Este es un proyecto en Python que permite validar si las disposiciones de puestos de trabajo en una oficina son simétricas según ciertas reglas predefinidas. El objetivo es ayudar a garantizar una distribución homogénea y eficiente de los puestos de trabajo.
@@ -111,6 +114,31 @@ python3 -m pip install requests
 ```
 python3 Ejercicio4.py
 ```
+
+# Ejercicio 5 - Pruebas A/B en Publicidad de Zapatillas
+
+Este proyecto consiste en un programa en Python para realizar pruebas A/B en la publicidad de una marca de zapatillas. Permite ingresar datos como la cantidad de clicks y espectadores involucrados en dos tipos de publicidad, calcular estadísticas relevantes y realizar pruebas estadísticas.
+
+## Requisitos
+
+- Python 3.x instalado en tu sistema.
+
+## Instalación
+
+No se requiere instalación adicional.
+
+## Uso
+
+1. Ejecuta el archivo `Ejericio5.py` en la terminal.
+
+````
+python3 Ejericio5.py
+````
+
+2. Sigue las instrucciones para ingresar los datos de cada prueba A/B.
+3. El programa calculará automáticamente los máximos y mínimos valores, así como las estadísticas necesarias.
+4. Al finalizar, se mostrarán los resultados en pantalla, incluyendo el test estadístico realizado.
+
 
 ### Autora: [Oriana Galíndez]
 
