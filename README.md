@@ -10,9 +10,9 @@ Este es un proyecto en Python que permite validar si las disposiciones de puesto
 
 ## Instrucciones de Uso
 
-1. Clona este repositorio o descarga el archivo `main.py`.
-2. Abre una terminal y navega hasta la ubicación del archivo `main.py`.
-3. Ejecuta el programa con el comando `python main.py`.
+1. Clona este repositorio o descarga el archivo `Ejercicio1.py`.
+2. Abre una terminal y navega hasta la ubicación del archivo `Ejercicio1.py`.
+3. Ejecuta el programa con el comando `python3 Ejercicio1.py`.
 4. Sigue las instrucciones en pantalla para ingresar las disposiciones de puestos de trabajo.
 5. Ingresa "salir" cuando desees finalizar el programa.
 
