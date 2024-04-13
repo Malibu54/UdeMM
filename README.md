@@ -102,14 +102,14 @@ python3 -m pip install requests
 
 ## Uso
 
-1. Ejecuta el script `contador_etiquetas.py`.
+1. Ejecuta el script `contador_etiquetas`.
 2. Cuando se solicite, ingresa la URL de la página web que deseas procesar.
 3. El programa procesará la página web y generará un reporte con la cantidad de cada etiqueta HTML válida encontrada, así como el total de etiquetas, la cantidad máxima y mínima de etiquetas, y la cantidad total de etiquetas inválidas.
 
 ## Ejemplo
 
 ```
-python3 contador_etiquetas.py
+python3 Ejercicio4.py
 ```
 
 ### Autora: [Oriana Galíndez]
