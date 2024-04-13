@@ -65,11 +65,11 @@ Este es un proyecto de Python que consiste en dos funcionalidades:
 ## Ejecución
 
 1. Descarga o clona este repositorio en tu máquina local.
-2. Abre una terminal y navega al directorio donde se encuentra el archivo `main.py`.
+2. Abre una terminal y navega al directorio donde se encuentra el archivo `Ejercicio2.py`.
 3. Ejecuta el siguiente comando para iniciar el programa:
 
 ```
-python3 main.py
+python3 Ejercicio2.py
 ```
 4. Sigue las instrucciones proporcionadas por el programa para utilizar sus funcionalidades.
 
