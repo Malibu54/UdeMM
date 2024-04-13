@@ -129,10 +129,10 @@ No se requiere instalación adicional.
 
 ## Uso
 
-1. Ejecuta el archivo `Ejericio5.py` en la terminal.
+1. Ejecuta el archivo `Ejercicio5.py` en la terminal.
 
 ````
-python3 Ejericio5.py
+python3 Ejercicio5.py
 ````
 
 2. Sigue las instrucciones para ingresar los datos de cada prueba A/B.
