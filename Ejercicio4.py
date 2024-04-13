@@ -1,3 +1,11 @@
+''''
+Este programa solicita al usuario ingresar una dirección IP IPv4. 
+Luego valida si la dirección IP ingresada cumple con el formato IPv4 válido y si pertenece a alguno de los rangos especificados. 
+Si es válida, muestra a qué VLAN pertenece. 
+Si no es válida, muestra un mensaje de error y registra un intento erróneo. 
+El programa termina cuando el usuario ingresa "fin" y luego muestra la cantidad total de intentos erróneos.
+'''
+
 import requests
 from bs4 import BeautifulSoup
 
